@@ -1,0 +1,20 @@
+/*paragraph 스타일 지정 */
+
+p {
+    color: dimgray
+}
+
+div.song {
+    color:aquamarine
+}
+
+a {
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: italic;
+}
