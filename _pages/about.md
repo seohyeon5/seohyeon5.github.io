@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.snu.ac.kr">서울대학교</a> |  <a href="https://humanities.snu.ac.kr">인문대학</a> |  <a href="https://dsh.snu.ac.kr">연계전공인문데이터과학</a>
+subtitle: '<a href="https://www.snu.ac.kr">서울대학교</a> | <a href="https://humanities.snu.ac.kr">인문대학</a> | <a href="https://dsh.snu.ac.kr">연계전공인문데이터과학</a>'
+
 
 profile:
   align: right
