@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문법-기초",
+            },{id: "post-코어-강화-운동법",
+        
+          title: "코어 강화 운동법",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/core-exercise/";
+          
+        },
+      },{id: "post-markdown-문법-기초",
         
           title: "Markdown 문법 기초",
         
