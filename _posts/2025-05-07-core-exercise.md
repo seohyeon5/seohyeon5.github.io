@@ -31,4 +31,4 @@ tags: ["코어", "코어근육"]
 
 ----------------------------------------------
 
-출처: https://m.health.chosun.com/svc/news_view.html?contid=2024062601407
+출처: ["5분만 해도 '뱃살' 빠진다"… 전문가가 알려주는 간단 운동, 방법은?](https://m.health.chosun.com/svc/news_view.html?contid=2024062601407)
