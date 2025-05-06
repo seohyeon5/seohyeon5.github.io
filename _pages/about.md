@@ -7,15 +7,12 @@ subtitle: '<a href="https://www.snu.ac.kr">서울대학교</a> | <a href="https:
 
 profile:
   align: right
-  image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Mint_chocolate_chip_ice_cream_with_sprinkles_in_a_cup_%2813049646504%29.jpg
-
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: |
-    <p>
-      Image by <a href="https://www.flickr.com/photos/m01229/13049646504">Austin Kirk</a>, via 
-      <a href="https://commons.wikimedia.org/wiki/File:Mint_chocolate_chip_ice_cream_with_sprinkles_in_a_cup_(13049646504).jpg">Wikimedia Commons</a>, 
-      licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.
-    </p>
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 
 
