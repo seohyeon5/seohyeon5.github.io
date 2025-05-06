@@ -10,7 +10,7 @@ profile:
   image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Mint_chocolate_chip_ice_cream_with_sprinkles_in_a_cup_%2813049646504%29.jpg
 
   image_circular: false # crops the image to make it circular
-    more_info: |
+  more_info: |
     <p>
       Image by <a href="https://www.flickr.com/photos/m01229/13049646504">Austin Kirk</a>, via 
       <a href="https://commons.wikimedia.org/wiki/File:Mint_chocolate_chip_ice_cream_with_sprinkles_in_a_cup_(13049646504).jpg">Wikimedia Commons</a>, 
